@@ -1,0 +1,421 @@
+Type;Year;Cluster;Value
+Internal net-migration;2000;Growth;0.208235438
+Internal net-migration;2001;Growth;0.196480618
+Internal net-migration;2002;Growth;0.183074671
+Internal net-migration;2003;Growth;0.184579199
+Internal net-migration;2004;Growth;0.185139832
+Internal net-migration;2005;Growth;0.180606272
+Internal net-migration;2006;Growth;0.17560352
+Internal net-migration;2007;Growth;0.161056618
+Internal net-migration;2008;Growth;0.140527053
+Internal net-migration;2009;Growth;0.106382776
+Internal net-migration;2010;Growth;0.094210209
+Internal net-migration;2011;Growth;0.095877097
+Internal net-migration;2012;Growth;0.102729003
+Internal net-migration;2013;Growth;0.094195545
+Internal net-migration;2014;Growth;0.093380346
+Internal net-migration;2015;Growth;0.094744911
+Internal net-migration;2016;Growth;0.099006091
+Internal net-migration;2017;Growth;0.08450551
+Internal net-migration;2018;Growth;0.069974401
+Internal net-migration;2019;Growth;0.059285944
+Internal net-migration;2020;Growth;-0.037106651
+International net-migration;2002;Growth;0.838272022
+International net-migration;2003;Growth;1.398306574
+International net-migration;2004;Growth;1.536743377
+International net-migration;2005;Growth;1.722478441
+International net-migration;2006;Growth;1.760746722
+International net-migration;2007;Growth;1.564156336
+International net-migration;2008;Growth;1.10350906
+International net-migration;2009;Growth;0.570510559
+International net-migration;2010;Growth;0.261368201
+International net-migration;2011;Growth;0.11688158
+International net-migration;2012;Growth;-0.041202466
+International net-migration;2013;Growth;-0.13785116
+International net-migration;2014;Growth;-0.102538607
+International net-migration;2015;Growth;0.091038479
+International net-migration;2016;Growth;0.309569107
+International net-migration;2017;Growth;0.615116583
+International net-migration;2018;Growth;0.931290728
+International net-migration;2019;Growth;1.166121535
+International net-migration;2020;Growth;0.585537601
+Natural change;2000;Growth;0.229841972
+Natural change;2001;Growth;0.242022313
+Natural change;2002;Growth;0.260762675
+Natural change;2003;Growth;0.291570462
+Natural change;2004;Growth;0.314787487
+Natural change;2005;Growth;0.355367349
+Natural change;2006;Growth;0.37359485
+Natural change;2007;Growth;0.413618716
+Natural change;2008;Growth;0.408620854
+Natural change;2009;Growth;0.401832394
+Natural change;2010;Growth;0.359712402
+Natural change;2011;Growth;0.314654511
+Natural change;2012;Growth;0.260433632
+Natural change;2013;Growth;0.22003435
+Natural change;2014;Growth;0.179468332
+Natural change;2015;Growth;0.152751321
+Natural change;2016;Growth;0.104684953
+Natural change;2017;Growth;0.063524738
+Natural change;2018;Growth;0.017812516
+Natural change;2019;Growth;-0.003806204
+Internal net-migration;2000;Consistent high decline;-1.429049202
+Internal net-migration;2001;Consistent high decline;-1.157991831
+Internal net-migration;2002;Consistent high decline;-1.072912271
+Internal net-migration;2003;Consistent high decline;-1.334357964
+Internal net-migration;2004;Consistent high decline;-1.678041181
+Internal net-migration;2005;Consistent high decline;-1.504971729
+Internal net-migration;2006;Consistent high decline;-1.531794281
+Internal net-migration;2007;Consistent high decline;-1.528002779
+Internal net-migration;2008;Consistent high decline;-1.617255781
+Internal net-migration;2009;Consistent high decline;-0.882512055
+Internal net-migration;2010;Consistent high decline;-0.80886091
+Internal net-migration;2011;Consistent high decline;-0.990165484
+Internal net-migration;2012;Consistent high decline;-1.366365533
+Internal net-migration;2013;Consistent high decline;-0.946692087
+Internal net-migration;2014;Consistent high decline;-0.89316776
+Internal net-migration;2015;Consistent high decline;-0.997256689
+Internal net-migration;2016;Consistent high decline;-1.267445841
+Internal net-migration;2017;Consistent high decline;-0.841767238
+Internal net-migration;2018;Consistent high decline;-0.74889467
+Internal net-migration;2019;Consistent high decline;-0.752301117
+Internal net-migration;2020;Consistent high decline;1.408699529
+International net-migration;2002;Consistent high decline;0.195224435
+International net-migration;2003;Consistent high decline;0.356107303
+International net-migration;2004;Consistent high decline;0.416231356
+International net-migration;2005;Consistent high decline;0.51441977
+International net-migration;2006;Consistent high decline;0.607919779
+International net-migration;2007;Consistent high decline;0.590947134
+International net-migration;2008;Consistent high decline;0.459071762
+International net-migration;2009;Consistent high decline;0.254757815
+International net-migration;2010;Consistent high decline;0.163848058
+International net-migration;2011;Consistent high decline;0.115919582
+International net-migration;2012;Consistent high decline;0.024365788
+International net-migration;2013;Consistent high decline;-0.019978557
+International net-migration;2014;Consistent high decline;-0.009744016
+International net-migration;2015;Consistent high decline;0.061329746
+International net-migration;2016;Consistent high decline;0.124321251
+International net-migration;2017;Consistent high decline;0.22363877
+International net-migration;2018;Consistent high decline;0.349464907
+International net-migration;2019;Consistent high decline;0.436523432
+International net-migration;2020;Consistent high decline;0.307903271
+Natural change;2000;Consistent high decline;-1.096194743
+Natural change;2001;Consistent high decline;-1.132162044
+Natural change;2002;Consistent high decline;-1.193895169
+Natural change;2003;Consistent high decline;-1.241115342
+Natural change;2004;Consistent high decline;-1.280465747
+Natural change;2005;Consistent high decline;-1.294011923
+Natural change;2006;Consistent high decline;-1.328589312
+Natural change;2007;Consistent high decline;-1.354026368
+Natural change;2008;Consistent high decline;-1.364739391
+Natural change;2009;Consistent high decline;-1.372753143
+Natural change;2010;Consistent high decline;-1.387170541
+Natural change;2011;Consistent high decline;-1.462748863
+Natural change;2012;Consistent high decline;-1.508517663
+Natural change;2013;Consistent high decline;-1.540306624
+Natural change;2014;Consistent high decline;-1.595631949
+Natural change;2015;Consistent high decline;-1.629577949
+Natural change;2016;Consistent high decline;-1.705221253
+Natural change;2017;Consistent high decline;-1.727614679
+Natural change;2018;Consistent high decline;-1.7510646
+Natural change;2019;Consistent high decline;-1.732482503
+Internal net-migration;2000;Consistent decline;-0.826744642
+Internal net-migration;2001;Consistent decline;-0.819026905
+Internal net-migration;2002;Consistent decline;-0.781118097
+Internal net-migration;2003;Consistent decline;-0.888921723
+Internal net-migration;2004;Consistent decline;-0.997657559
+Internal net-migration;2005;Consistent decline;-1.018600699
+Internal net-migration;2006;Consistent decline;-1.034297973
+Internal net-migration;2007;Consistent decline;-1.00711656
+Internal net-migration;2008;Consistent decline;-0.962418479
+Internal net-migration;2009;Consistent decline;-0.727506677
+Internal net-migration;2010;Consistent decline;-0.626580856
+Internal net-migration;2011;Consistent decline;-0.625870811
+Internal net-migration;2012;Consistent decline;-0.655453749
+Internal net-migration;2013;Consistent decline;-0.49708211
+Internal net-migration;2014;Consistent decline;-0.561356901
+Internal net-migration;2015;Consistent decline;-0.633288918
+Internal net-migration;2016;Consistent decline;-0.741730098
+Internal net-migration;2017;Consistent decline;-0.590201641
+Internal net-migration;2018;Consistent decline;-0.515384053
+Internal net-migration;2019;Consistent decline;-0.484144398
+Internal net-migration;2020;Consistent decline;0.903760936
+International net-migration;2002;Consistent decline;0.185984088
+International net-migration;2003;Consistent decline;0.335750467
+International net-migration;2004;Consistent decline;0.407995421
+International net-migration;2005;Consistent decline;0.456431866
+International net-migration;2006;Consistent decline;0.514598457
+International net-migration;2007;Consistent decline;0.489831062
+International net-migration;2008;Consistent decline;0.383378403
+International net-migration;2009;Consistent decline;0.238540652
+International net-migration;2010;Consistent decline;0.15872001
+International net-migration;2011;Consistent decline;0.125272576
+International net-migration;2012;Consistent decline;0.045064531
+International net-migration;2013;Consistent decline;0.006533633
+International net-migration;2014;Consistent decline;-0.001946782
+International net-migration;2015;Consistent decline;0.049958894
+International net-migration;2016;Consistent decline;0.1118903
+International net-migration;2017;Consistent decline;0.221911491
+International net-migration;2018;Consistent decline;0.325578489
+International net-migration;2019;Consistent decline;0.393566364
+International net-migration;2020;Consistent decline;0.277821023
+Natural change;2000;Consistent decline;-0.88539053
+Natural change;2001;Consistent decline;-0.920805639
+Natural change;2002;Consistent decline;-0.979545404
+Natural change;2003;Consistent decline;-1.010537431
+Natural change;2004;Consistent decline;-1.041982762
+Natural change;2005;Consistent decline;-1.029706099
+Natural change;2006;Consistent decline;-1.068905426
+Natural change;2007;Consistent decline;-1.091337342
+Natural change;2008;Consistent decline;-1.133700909
+Natural change;2009;Consistent decline;-1.153050109
+Natural change;2010;Consistent decline;-1.169550747
+Natural change;2011;Consistent decline;-1.21065729
+Natural change;2012;Consistent decline;-1.238283497
+Natural change;2013;Consistent decline;-1.260271823
+Natural change;2014;Consistent decline;-1.303570728
+Natural change;2015;Consistent decline;-1.341485041
+Natural change;2016;Consistent decline;-1.396828578
+Natural change;2017;Consistent decline;-1.423154807
+Natural change;2018;Consistent decline;-1.444322755
+Natural change;2019;Consistent decline;-1.44680521
+Internal net-migration;2000;Increasing high decline;-0.889171381
+Internal net-migration;2001;Increasing high decline;-0.700590841
+Internal net-migration;2002;Increasing high decline;-0.563009466
+Internal net-migration;2003;Increasing high decline;-0.753276548
+Internal net-migration;2004;Increasing high decline;-1.007686373
+Internal net-migration;2005;Increasing high decline;-0.955760861
+Internal net-migration;2006;Increasing high decline;-0.923445151
+Internal net-migration;2007;Increasing high decline;-0.869428024
+Internal net-migration;2008;Increasing high decline;-0.799428562
+Internal net-migration;2009;Increasing high decline;-0.134066214
+Internal net-migration;2010;Increasing high decline;-0.246186146
+Internal net-migration;2011;Increasing high decline;-0.559423272
+Internal net-migration;2012;Increasing high decline;-1.154276803
+Internal net-migration;2013;Increasing high decline;-0.748278599
+Internal net-migration;2014;Increasing high decline;-0.911597112
+Internal net-migration;2015;Increasing high decline;-1.241273962
+Internal net-migration;2016;Increasing high decline;-1.960303673
+Internal net-migration;2017;Increasing high decline;-1.907425261
+Internal net-migration;2018;Increasing high decline;-1.710847183
+Internal net-migration;2019;Increasing high decline;-1.425375264
+Internal net-migration;2020;Increasing high decline;1.479203506
+International net-migration;2002;Increasing high decline;0.287049183
+International net-migration;2003;Increasing high decline;0.535794863
+International net-migration;2004;Increasing high decline;0.646834042
+International net-migration;2005;Increasing high decline;0.803038403
+International net-migration;2006;Increasing high decline;0.988556566
+International net-migration;2007;Increasing high decline;0.991797268
+International net-migration;2008;Increasing high decline;0.802646256
+International net-migration;2009;Increasing high decline;0.487296961
+International net-migration;2010;Increasing high decline;0.324458357
+International net-migration;2011;Increasing high decline;0.233157232
+International net-migration;2012;Increasing high decline;0.08226288
+International net-migration;2013;Increasing high decline;-0.004718242
+International net-migration;2014;Increasing high decline;-0.014585267
+International net-migration;2015;Increasing high decline;0.047516565
+International net-migration;2016;Increasing high decline;0.078056569
+International net-migration;2017;Increasing high decline;0.137579244
+International net-migration;2018;Increasing high decline;0.217662169
+International net-migration;2019;Increasing high decline;0.295600371
+International net-migration;2020;Increasing high decline;0.358268625
+Natural change;2000;Increasing high decline;-1.030729043
+Natural change;2001;Increasing high decline;-1.045464789
+Natural change;2002;Increasing high decline;-1.053924555
+Natural change;2003;Increasing high decline;-1.052700784
+Natural change;2004;Increasing high decline;-1.077581596
+Natural change;2005;Increasing high decline;-1.063387035
+Natural change;2006;Increasing high decline;-1.125780392
+Natural change;2007;Increasing high decline;-1.115889087
+Natural change;2008;Increasing high decline;-1.169918195
+Natural change;2009;Increasing high decline;-1.151924531
+Natural change;2010;Increasing high decline;-1.180022461
+Natural change;2011;Increasing high decline;-1.211588894
+Natural change;2012;Increasing high decline;-1.278295892
+Natural change;2013;Increasing high decline;-1.329605303
+Natural change;2014;Increasing high decline;-1.39758791
+Natural change;2015;Increasing high decline;-1.49309173
+Natural change;2016;Increasing high decline;-1.627003297
+Natural change;2017;Increasing high decline;-1.726852411
+Natural change;2018;Increasing high decline;-1.762863408
+Natural change;2019;Increasing high decline;-1.745932684
+Internal net-migration;2000;Increasing decline;-0.681277822
+Internal net-migration;2001;Increasing decline;-0.63197827
+Internal net-migration;2002;Increasing decline;-0.60835676
+Internal net-migration;2003;Increasing decline;-0.608404689
+Internal net-migration;2004;Increasing decline;-0.639301051
+Internal net-migration;2005;Increasing decline;-0.555109962
+Internal net-migration;2006;Increasing decline;-0.568603863
+Internal net-migration;2007;Increasing decline;-0.516223678
+Internal net-migration;2008;Increasing decline;-0.493352765
+Internal net-migration;2009;Increasing decline;-0.343000321
+Internal net-migration;2010;Increasing decline;-0.324619518
+Internal net-migration;2011;Increasing decline;-0.442272936
+Internal net-migration;2012;Increasing decline;-0.597992799
+Internal net-migration;2013;Increasing decline;-0.610203354
+Internal net-migration;2014;Increasing decline;-0.614536529
+Internal net-migration;2015;Increasing decline;-0.620807813
+Internal net-migration;2016;Increasing decline;-0.67488245
+Internal net-migration;2017;Increasing decline;-0.570118583
+Internal net-migration;2018;Increasing decline;-0.452502523
+Internal net-migration;2019;Increasing decline;-0.346055662
+Internal net-migration;2020;Increasing decline;0.744630776
+International net-migration;2002;Increasing decline;0.283057316
+International net-migration;2003;Increasing decline;0.539673469
+International net-migration;2004;Increasing decline;0.666432394
+International net-migration;2005;Increasing decline;0.789816264
+International net-migration;2006;Increasing decline;0.921039231
+International net-migration;2007;Increasing decline;0.874156488
+International net-migration;2008;Increasing decline;0.699355865
+International net-migration;2009;Increasing decline;0.392353275
+International net-migration;2010;Increasing decline;0.247099059
+International net-migration;2011;Increasing decline;0.155652857
+International net-migration;2012;Increasing decline;0.045072364
+International net-migration;2013;Increasing decline;-0.044842964
+International net-migration;2014;Increasing decline;-0.062874177
+International net-migration;2015;Increasing decline;-0.008160061
+International net-migration;2016;Increasing decline;0.052144262
+International net-migration;2017;Increasing decline;0.175143575
+International net-migration;2018;Increasing decline;0.305140749
+International net-migration;2019;Increasing decline;0.420148539
+International net-migration;2020;Increasing decline;0.360768238
+Natural change;2000;Increasing decline;-0.564746414
+Natural change;2001;Increasing decline;-0.581017953
+Natural change;2002;Increasing decline;-0.614761969
+Natural change;2003;Increasing decline;-0.615229503
+Natural change;2004;Increasing decline;-0.637690198
+Natural change;2005;Increasing decline;-0.616806163
+Natural change;2006;Increasing decline;-0.643964394
+Natural change;2007;Increasing decline;-0.623512294
+Natural change;2008;Increasing decline;-0.638826367
+Natural change;2009;Increasing decline;-0.634425116
+Natural change;2010;Increasing decline;-0.661934527
+Natural change;2011;Increasing decline;-0.712983413
+Natural change;2012;Increasing decline;-0.769985795
+Natural change;2013;Increasing decline;-0.807969318
+Natural change;2014;Increasing decline;-0.848591603
+Natural change;2015;Increasing decline;-0.865951604
+Natural change;2016;Increasing decline;-0.908981124
+Natural change;2017;Increasing decline;-0.927789077
+Natural change;2018;Increasing decline;-0.952244186
+Natural change;2019;Increasing decline;-0.95469507
+Internal net-migration;2000;Increasing moderate decline;-0.645554256
+Internal net-migration;2001;Increasing moderate decline;-0.645967565
+Internal net-migration;2002;Increasing moderate decline;-0.636643078
+Internal net-migration;2003;Increasing moderate decline;-0.641120887
+Internal net-migration;2004;Increasing moderate decline;-0.620002863
+Internal net-migration;2005;Increasing moderate decline;-0.649586061
+Internal net-migration;2006;Increasing moderate decline;-0.634995261
+Internal net-migration;2007;Increasing moderate decline;-0.585249444
+Internal net-migration;2008;Increasing moderate decline;-0.476448595
+Internal net-migration;2009;Increasing moderate decline;-0.424302964
+Internal net-migration;2010;Increasing moderate decline;-0.372628589
+Internal net-migration;2011;Increasing moderate decline;-0.334542719
+Internal net-migration;2012;Increasing moderate decline;-0.282514257
+Internal net-migration;2013;Increasing moderate decline;-0.285376986
+Internal net-migration;2014;Increasing moderate decline;-0.278826505
+Internal net-migration;2015;Increasing moderate decline;-0.278022363
+Internal net-migration;2016;Increasing moderate decline;-0.261185154
+Internal net-migration;2017;Increasing moderate decline;-0.255552357
+Internal net-migration;2018;Increasing moderate decline;-0.222003958
+Internal net-migration;2019;Increasing moderate decline;-0.196406885
+Internal net-migration;2020;Increasing moderate decline;-0.158253087
+International net-migration;2002;Increasing moderate decline;0.234768602
+International net-migration;2003;Increasing moderate decline;0.447700104
+International net-migration;2004;Increasing moderate decline;0.570370636
+International net-migration;2005;Increasing moderate decline;0.693199091
+International net-migration;2006;Increasing moderate decline;0.778933976
+International net-migration;2007;Increasing moderate decline;0.745499432
+International net-migration;2008;Increasing moderate decline;0.585416892
+International net-migration;2009;Increasing moderate decline;0.342327835
+International net-migration;2010;Increasing moderate decline;0.203828715
+International net-migration;2011;Increasing moderate decline;0.127266211
+International net-migration;2012;Increasing moderate decline;0.049669966
+International net-migration;2013;Increasing moderate decline;-0.028568917
+International net-migration;2014;Increasing moderate decline;-0.045727593
+International net-migration;2015;Increasing moderate decline;0.020054806
+International net-migration;2016;Increasing moderate decline;0.139479884
+International net-migration;2017;Increasing moderate decline;0.30057284
+International net-migration;2018;Increasing moderate decline;0.478965833
+International net-migration;2019;Increasing moderate decline;0.601993426
+International net-migration;2020;Increasing moderate decline;0.327813764
+Natural change;2000;Increasing moderate decline;-0.099529526
+Natural change;2001;Increasing moderate decline;-0.105274293
+Natural change;2002;Increasing moderate decline;-0.11489434
+Natural change;2003;Increasing moderate decline;-0.119066983
+Natural change;2004;Increasing moderate decline;-0.121156042
+Natural change;2005;Increasing moderate decline;-0.104476755
+Natural change;2006;Increasing moderate decline;-0.106440244
+Natural change;2007;Increasing moderate decline;-0.091782521
+Natural change;2008;Increasing moderate decline;-0.104201021
+Natural change;2009;Increasing moderate decline;-0.113797537
+Natural change;2010;Increasing moderate decline;-0.142824145
+Natural change;2011;Increasing moderate decline;-0.179532829
+Natural change;2012;Increasing moderate decline;-0.214167521
+Natural change;2013;Increasing moderate decline;-0.244760913
+Natural change;2014;Increasing moderate decline;-0.282306234
+Natural change;2015;Increasing moderate decline;-0.311411133
+Natural change;2016;Increasing moderate decline;-0.354173895
+Natural change;2017;Increasing moderate decline;-0.390551473
+Natural change;2018;Increasing moderate decline;-0.42716198
+Natural change;2019;Increasing moderate decline;-0.445498484
+Internal net-migration;2000;Growth to decline;-0.782975147
+Internal net-migration;2001;Growth to decline;-0.626863722
+Internal net-migration;2002;Growth to decline;-0.369332425
+Internal net-migration;2003;Growth to decline;-0.351106439
+Internal net-migration;2004;Growth to decline;-0.436303689
+Internal net-migration;2005;Growth to decline;-0.353994861
+Internal net-migration;2006;Growth to decline;-0.522857452
+Internal net-migration;2007;Growth to decline;-0.62320068
+Internal net-migration;2008;Growth to decline;-0.892920274
+Internal net-migration;2009;Growth to decline;-0.362858702
+Internal net-migration;2010;Growth to decline;-0.498460386
+Internal net-migration;2011;Growth to decline;-0.817541786
+Internal net-migration;2012;Growth to decline;-1.532380126
+Internal net-migration;2013;Growth to decline;-1.467008094
+Internal net-migration;2014;Growth to decline;-1.448166704
+Internal net-migration;2015;Growth to decline;-1.313785047
+Internal net-migration;2016;Growth to decline;-1.232205582
+Internal net-migration;2017;Growth to decline;-0.672114941
+Internal net-migration;2018;Growth to decline;-0.389720895
+Internal net-migration;2019;Growth to decline;-0.221380556
+Internal net-migration;2020;Growth to decline;1.647646259
+International net-migration;2002;Growth to decline;0.629729343
+International net-migration;2003;Growth to decline;1.389290057
+International net-migration;2004;Growth to decline;1.755372695
+International net-migration;2005;Growth to decline;2.202329319
+International net-migration;2006;Growth to decline;2.435809294
+International net-migration;2007;Growth to decline;2.191279228
+International net-migration;2008;Growth to decline;1.627494001
+International net-migration;2009;Growth to decline;0.834436525
+International net-migration;2010;Growth to decline;0.559969144
+International net-migration;2011;Growth to decline;0.362154931
+International net-migration;2012;Growth to decline;0.037536418
+International net-migration;2013;Growth to decline;-0.234527454
+International net-migration;2014;Growth to decline;-0.348122854
+International net-migration;2015;Growth to decline;-0.163627045
+International net-migration;2016;Growth to decline;0.019558386
+International net-migration;2017;Growth to decline;0.322063548
+International net-migration;2018;Growth to decline;0.618667564
+International net-migration;2019;Growth to decline;0.909693624
+International net-migration;2020;Growth to decline;0.644636136
+Natural change;2000;Growth to decline;-0.763794416
+Natural change;2001;Growth to decline;-0.774429385
+Natural change;2002;Growth to decline;-0.792858217
+Natural change;2003;Growth to decline;-0.783025669
+Natural change;2004;Growth to decline;-0.767889028
+Natural change;2005;Growth to decline;-0.71130531
+Natural change;2006;Growth to decline;-0.695126816
+Natural change;2007;Growth to decline;-0.674563472
+Natural change;2008;Growth to decline;-0.703359973
+Natural change;2009;Growth to decline;-0.713211222
+Natural change;2010;Growth to decline;-0.757369323
+Natural change;2011;Growth to decline;-0.804887887
+Natural change;2012;Growth to decline;-0.888928338
+Natural change;2013;Growth to decline;-0.949651492
+Natural change;2014;Growth to decline;-1.008507501
+Natural change;2015;Growth to decline;-1.020361581
+Natural change;2016;Growth to decline;-1.06932188
+Natural change;2017;Growth to decline;-1.117736727
+Natural change;2018;Growth to decline;-1.153383637
+Natural change;2019;Growth to decline;-1.14230101

@@ -1,0 +1,23 @@
+"","Type1","Type2","Index","Joincount","Expected","Variance","z.value"
+"1","Consistent Decline","Consistent Decline",1.25,114,92,27.49,4.32
+"2","Consistent High decline","Consistent High decline",1.67,366,220,52.6,20.18
+"3","Growth to Decline","Growth to Decline",1.56,33,21,7.59,4.28
+"4","Increasing Decline","Increasing Decline",1.29,118,92,27.44,5.02
+"5","Increasing High Decline","Increasing High Decline",1.48,46,31,10.93,4.51
+"6","Increasing Moderate Decline","Increasing Moderate Decline",3.07,124,40,13.64,22.56
+"7","Consistent High decline","Consistent Decline",0.93,265,285,80.79,-2.17
+"8","Growth to Decline","Consistent Decline",0.94,82,88,29.38,-1.04
+"9","Growth to Decline","Consistent High decline",1.03,140,136,41.12,0.63
+"10","Increasing Decline","Consistent Decline",1.06,195,184,56.92,1.49
+"11","Increasing Decline","Consistent High decline",0.57,163,284,80.72,-13.47
+"12","Increasing Decline","Growth to Decline",1.06,93,88,29.36,0.96
+"13","Increasing High Decline","Consistent Decline",0.99,107,107,35.38,-0.12
+"14","Increasing High Decline","Consistent High decline",1.21,201,166,49.64,4.9
+"15","Increasing High Decline","Growth to Decline",1.07,55,51,18.41,0.8
+"16","Increasing High Decline","Increasing Decline",0.82,88,107,35.35,-3.21
+"17","Increasing Moderate Decline","Consistent Decline",0.75,91,122,39.62,-4.87
+"18","Increasing Moderate Decline","Consistent High decline",0.23,43,188,55.7,-19.42
+"19","Increasing Moderate Decline","Growth to Decline",0.61,35,58,20.58,-5.04
+"20","Increasing Moderate Decline","Increasing Decline",1.36,165,122,39.59,6.95
+"21","Increasing Moderate Decline","Increasing High Decline",0.39,28,71,24.75,-8.66
+"22","Jtot","",0.85,1752,2057,160.29,-24.12
