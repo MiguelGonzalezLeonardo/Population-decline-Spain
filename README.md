@@ -13,6 +13,6 @@ There are 5 folders in the repository:
 
 3.Correlation: to repclicate the correlation analysis of stage 3.
 
-4.Contribution: to replicate satge 4 (contribution of natural change, net internal migration and net international migration).
+4.Contribution: to replicate stage 4 (contribution of natural change, net internal migration and net international migration).
 
-5.Multinomial_model: to replicate stage 5 (multinomial model to explore contextual factors). There is not dataset for this stage, as some data we used are not open access (see the data and methods section in the paper to check where the data should be requested).
+5.Multinomial_model: to replicate stage 5 (multinomial model to explore contextual factors). There is not dataset for this stage, as some data we used were not open access (see the data and methods section in the paper to check where the data should be requested).
